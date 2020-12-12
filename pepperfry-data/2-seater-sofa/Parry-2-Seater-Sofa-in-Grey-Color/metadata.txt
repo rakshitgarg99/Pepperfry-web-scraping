@@ -1,0 +1,1 @@
+{"price": "12510", "savings": "0", "description": "", "details": {"brand": "@home", "dimensions": "H 32.2 x W 51.1 x D 31.4; Seating Height 16.9 (all dimension in inches)", "weight": "27 KG", "warranty": "Grey", "assembly": "12 Months' Warranty", "primary material": "Carpenter Assembly"}}

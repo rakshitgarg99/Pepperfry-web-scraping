@@ -1,0 +1,1 @@
+{"price": "10563", "savings": "0", "description": "", "details": {"brand": "Fabuliv", "dimensions": "H 20 x W 41.5 x D 15.6 (all dimension in inches)", "weight": "36 Months' Warranty", "warranty": "Carpenter Assembly", "assembly": "Mango Wood", "primary material": "Dining Room"}}

@@ -1,0 +1,1 @@
+{"price": "16990", "savings": "0", "description": "", "details": {"brand": "HomeTown", "dimensions": "H 72  x W 31 x D 16 (all dimension in inches)", "weight": "40 KG", "warranty": "12 Months' Warranty", "assembly": "Assembly by Brand", "primary material": "Engineered Wood"}}

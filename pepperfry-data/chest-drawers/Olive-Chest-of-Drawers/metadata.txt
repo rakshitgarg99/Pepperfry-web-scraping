@@ -1,0 +1,1 @@
+{"price": "17607", "savings": "0", "description": "", "details": {"brand": "Fabuliv", "dimensions": "H 32 x W 22 x D 14 (all dimension in inches)", "weight": "Multi-Colour", "warranty": "36 Months' Warranty", "assembly": "No Assembly Required", "primary material": "Mango Wood"}}
