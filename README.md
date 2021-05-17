@@ -1,6 +1,6 @@
 # Pepperfry Web scraping
 
-## It's a project of scrapping Pepperfry.com (One of India's largest online Furniture selling website).
+## It's a project of scrapping Pepperfry.com (One of India's online Furniture selling website).
 ## Scraping done using Beautiful Soup.
 
 ### Tasks fulfilled in project:-
